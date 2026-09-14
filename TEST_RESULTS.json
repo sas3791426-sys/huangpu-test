@@ -1,0 +1,5 @@
+{
+  "passed": 40,
+  "method": "Isolated JavaScript VM + native Canvas; browser opening blocked by policy",
+  "version": "1.3.8"
+}
